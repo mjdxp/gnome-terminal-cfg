@@ -1,0 +1,46 @@
+[/]
+default='1c1cf33b-e725-4ffd-9e79-252c7d2cc12c'
+list=['9491b42f-83f1-4de9-b329-24010b92ec8c', '1c1cf33b-e725-4ffd-9e79-252c7d2cc12c']
+
+[:1c1cf33b-e725-4ffd-9e79-252c7d2cc12c]
+background-color='rgb(35,35,35)'
+bold-color='#babababababa'
+bold-color-same-as-fg=true
+foreground-color='rgb(187,197,255)'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['rgb(40,42,54)', 'rgb(240,113,120)', 'rgb(195,232,141)', 'rgb(255,203,107)', 'rgb(130,170,255)', 'rgb(199,146,234)', 'rgb(137,221,255)', 'rgb(208,208,208)', 'rgb(67,71,88)', 'rgb(255,139,146)', 'rgb(221,255,167)', 'rgb(255,229,133)', 'rgb(156,196,255)', 'rgb(225,172,255)', 'rgb(163,247,255)', 'rgb(255,255,255)']
+scrollbar-policy='never'
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='dt-cyana'
+
+[:9491b42f-83f1-4de9-b329-24010b92ec8c]
+allow-bold=true
+background-color='rgb(35,35,35)'
+bold-color='#babababababa'
+bold-color-same-as-fg=true
+foreground-color='#babababababa'
+highlight-background-color='#'
+highlight-colors-set=true
+highlight-foreground-color='#'
+palette=['rgb(40,42,54)', 'rgb(240,113,120)', 'rgb(195,232,141)', 'rgb(255,203,107)', 'rgb(130,170,255)', 'rgb(199,146,234)', 'rgb(137,221,255)', 'rgb(208,208,208)', 'rgb(67,71,88)', 'rgb(255,139,146)', 'rgb(87,156,142)', 'rgb(255,229,133)', 'rgb(156,196,255)', 'rgb(225,172,255)', 'rgb(163,247,255)', 'rgb(255,255,255)']
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='dt-cyana-backup'
+
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(31,31,31)'
+bold-is-bright=false
+default-size-columns=120
+default-size-rows=40
+font='Ubuntu Mono 12'
+foreground-color='rgb(211,211,211)'
+palette=['rgb(46,52,54)', 'rgb(204,0,0)', 'rgb(78,154,6)', 'rgb(196,160,0)', 'rgb(52,101,164)', 'rgb(117,80,123)', 'rgb(6,152,154)', 'rgb(211,215,207)', 'rgb(85,87,83)', 'rgb(239,41,41)', 'rgb(138,226,52)', 'rgb(252,233,79)', 'rgb(114,159,207)', 'rgb(173,127,168)', 'rgb(52,226,226)', 'rgb(238,238,236)']
+scroll-on-keystroke=false
+scrollbar-policy='never'
+use-system-font=false
+use-theme-colors=false
+visible-name='Cyan'
